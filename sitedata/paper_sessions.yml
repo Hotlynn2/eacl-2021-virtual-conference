@@ -1,0 +1,604 @@
+z1A:
+  start_time: 2021-04-21 14:00:00+02:00
+  end_time: 2021-04-21 15:00:00+02:00
+  name: CSS
+  long_name: Computational Social Choice and Social Media
+  papers:
+  - main.816
+  - main.836
+  - main.1330
+z2A:
+  start_time: 2021-04-21 10:00:00+02:00
+  end_time: 2021-04-21 11:00:00+02:00
+  name: DIA 1
+  long_name: DIA 1
+  papers:
+  - main.332
+  - main.343
+z3A:
+  start_time: 2021-04-22 14:00:00+02:00
+  end_time: 2021-04-22 15:00:00+02:00
+  name: DIA 2
+  long_name: DIA 2
+  papers:
+  - main.402
+  - main.423
+  - main.490
+z4A:
+  start_time: 2021-04-22 09:00:00+02:00
+  end_time: 2021-04-22 10:00:00+02:00
+  name: DISCO
+  long_name: Discourse and Pragmatics
+  papers:
+  - main.225
+  - main.313
+  - main.1326
+z5A:
+  start_time: 2021-04-23 14:00:00+02:00
+  end_time: 2021-04-23 15:00:00+02:00
+  name: DISCO-SUM
+  long_name: Discourse and Summarization
+  papers:
+  - main.139
+  - main.411
+  - main.763
+z2B:
+  start_time: 2021-04-21 10:00:00+02:00
+  end_time: 2021-04-21 11:00:00+02:00
+  name: DOC 1
+  long_name: Document Analysis and Text Classification
+  papers:
+  - main.342
+  - main.350
+z3B:
+  start_time: 2021-04-22 14:00:00+02:00
+  end_time: 2021-04-22 15:00:00+02:00
+  name: DOC 2
+  long_name: DOC 2
+  papers:
+  - main.950
+  - main.956
+  - main.1086
+z1B:
+  start_time: 2021-04-21 14:00:00+02:00
+  end_time: 2021-04-21 15:00:00+02:00
+  name: GEN 1
+  long_name: GEN 1
+  papers:
+  - main.576
+  - main.995
+  - main.1231
+z6A:
+  start_time: 2021-04-23 10:00:00+02:00
+  end_time: 2021-04-23 11:00:00+02:00
+  name: GEN 2
+  long_name: GEN 2
+  papers:
+  - main.129
+  - main.980
+  - main.1340
+z7A:
+  start_time: 2021-04-22 10:00:00+02:00
+  end_time: 2021-04-22 11:00:00+02:00
+  name: GROUND
+  long_name: Natural Language Grounding
+  papers:
+  - main.454
+  - main.862
+  - main.1094
+z4B:
+  start_time: 2021-04-22 09:00:00+02:00
+  end_time: 2021-04-22 10:00:00+02:00
+  name: IE 1
+  long_name: IE 1
+  papers:
+  - main.377
+  - main.725
+  - main.1371
+z5B:
+  start_time: 2021-04-23 14:00:00+02:00
+  end_time: 2021-04-23 15:00:00+02:00
+  name: IE 2
+  long_name: IE 2
+  papers:
+  - main.355
+  - main.892
+  - main.1021
+z2C:
+  start_time: 2021-04-21 10:00:00+02:00
+  end_time: 2021-04-21 11:00:00+02:00
+  name: INTERPRET 1
+  long_name: INTERPRET 1
+  papers:
+  - main.821
+  - main.1157
+  - main.1226
+z5C:
+  start_time: 2021-04-23 14:00:00+02:00
+  end_time: 2021-04-23 15:00:00+02:00
+  name: INTERPRET 2
+  long_name: INTERPRET 2
+  papers:
+  - main.952
+  - main.1026
+  - main.1285
+z1C:
+  start_time: 2021-04-21 14:00:00+02:00
+  end_time: 2021-04-21 15:00:00+02:00
+  name: IR/QA 1
+  long_name: IR/QA 1
+  papers:
+  - main.99
+  - main.157
+  - main.1122
+z6B:
+  start_time: 2021-04-23 10:00:00+02:00
+  end_time: 2021-04-23 11:00:00+02:00
+  name: IR/QA 2
+  long_name: IR/QA 2
+  papers:
+  - main.271
+  - main.406
+  - main.1311
+z3C:
+  start_time: 2021-04-22 14:00:00+02:00
+  end_time: 2021-04-22 15:00:00+02:00
+  name: LING
+  long_name: Linguistic Theories, Cognitive Modeling and Psycholinguistics
+  papers:
+  - main.16
+  - main.964
+  - main.1331
+z4C:
+  start_time: 2021-04-22 09:00:00+02:00
+  end_time: 2021-04-22 10:00:00+02:00
+  name: LRE 1
+  long_name: LRE 1
+  papers:
+  - main.755
+  - main.873
+  - main.1219
+z8A:
+  start_time: 2021-04-23 09:00:00+02:00
+  end_time: 2021-04-23 10:00:00+02:00
+  name: LRE 2
+  long_name: LRE 2
+  papers:
+  - main.186
+  - main.472
+  - main.610
+z1D:
+  start_time: 2021-04-21 14:00:00+02:00
+  end_time: 2021-04-21 15:00:00+02:00
+  name: ML 1
+  long_name: ML 1
+  papers:
+  - main.44
+  - main.441
+  - main.444
+z8B:
+  start_time: 2021-04-23 09:00:00+02:00
+  end_time: 2021-04-23 10:00:00+02:00
+  name: ML 2
+  long_name: ML 2
+  papers:
+  - main.40
+  - main.112
+  - main.207
+z8C:
+  start_time: 2021-04-23 09:00:00+02:00
+  end_time: 2021-04-23 10:00:00+02:00
+  name: MORPH
+  long_name: Phonology, Morphology and Word Segmentation
+  papers:
+  - main.778
+  - main.1197
+  - main.1202
+z4D:
+  start_time: 2021-04-22 09:00:00+02:00
+  end_time: 2021-04-22 10:00:00+02:00
+  name: MT 1
+  long_name: MT 1
+  papers:
+  - main.130
+  - main.1036
+z5D:
+  start_time: 2021-04-23 14:00:00+02:00
+  end_time: 2021-04-23 15:00:00+02:00
+  name: MT 2
+  long_name: MT 2
+  papers:
+  - main.456
+  - main.613
+  - main.1062
+z7B:
+  start_time: 2021-04-22 10:00:00+02:00
+  end_time: 2021-04-22 11:00:00+02:00
+  name: MULTILING 1
+  long_name: MULTILING 1
+  papers:
+  - main.602
+  - main.1344
+z5E:
+  start_time: 2021-04-23 14:00:00+02:00
+  end_time: 2021-04-23 15:00:00+02:00
+  name: MULTILING 2
+  long_name: MULTILING 2
+  papers:
+  - main.176
+  - main.662
+  - main.932
+z7C:
+  start_time: 2021-04-22 10:00:00+02:00
+  end_time: 2021-04-22 11:00:00+02:00
+  name: SEM-Lex
+  long_name: Lexical Semantics
+  papers:
+  - main.239
+  - main.557
+  - main.1299
+z6C:
+  start_time: 2021-04-23 10:00:00+02:00
+  end_time: 2021-04-23 11:00:00+02:00
+  name: SEM-Sent
+  long_name: Sentence-Level Semantics
+  papers:
+  - main.486
+  - main.989
+z3D:
+  start_time: 2021-04-22 14:00:00+02:00
+  end_time: 2021-04-22 15:00:00+02:00
+  name: SENTIMENT 1
+  long_name: SENTIMENT 1
+  papers:
+  - main.693
+  - main.811
+  - main.1211
+z8D:
+  start_time: 2021-04-23 09:00:00+02:00
+  end_time: 2021-04-23 10:00:00+02:00
+  name: SENTIMENT 2
+  long_name: SENTIMENT 2
+  papers:
+  - main.164
+  - main.257
+  - main.273
+z1E:
+  start_time: 2021-04-21 14:00:00+02:00
+  end_time: 2021-04-21 15:00:00+02:00
+  name: SYNTAX
+  long_name: Tagging, Chunking, Syntax and Parsing
+  papers:
+  - main.683
+g9A:
+  start_time: 2021-04-21 15:00:00+02:00
+  end_time: 2021-04-21 17:00:00+02:00
+  name: APPS 1
+  long_name: APPS 1
+  papers:
+  - main.213
+  - main.240
+  - main.269
+  - main.319
+  - main.344
+  - main.345
+  - main.383
+  - main.565
+  - main.606
+  - main.650
+  - main.692
+  - main.809
+  - main.909
+  - main.1037
+  - main.1223
+  - main.1302
+g10A:
+  start_time: 2021-04-22 15:00:00+02:00
+  end_time: 2021-04-22 17:00:00+02:00
+  name: APPS 2
+  long_name: Information Extraction, Information Retrieval, Text Categorization and
+    Question Answering
+  papers:
+  - main.114
+  - main.189
+  - main.678
+  - main.756
+  - main.812
+  - main.819
+  - main.865
+  - main.994
+  - main.1072
+  - main.1074
+  - main.1097
+  - main.1107
+  - main.1142
+  - main.1239
+  - main.1291
+  - main.1319
+g11A:
+  start_time: 2021-04-23 15:00:00+02:00
+  end_time: 2021-04-23 17:00:00+02:00
+  name: APPS 3
+  long_name: APPS 3
+  papers:
+  - main.354
+  - main.358
+  - main.442
+  - main.527
+  - main.661
+  - main.706
+  - main.791
+  - main.970
+  - main.1056
+  - main.1096
+  - main.1121
+  - main.1164
+  - main.1257
+  - main.1261
+  - main.1349
+  - main.1359
+  - main.1382
+g9B:
+  start_time: 2021-04-21 15:00:00+02:00
+  end_time: 2021-04-21 17:00:00+02:00
+  name: CSS+SENTIMENT 1
+  long_name: CSS+SENTIMENT 1
+  papers:
+  - main.121
+  - main.163
+  - main.182
+  - main.284
+  - main.375
+  - main.649
+  - main.675
+  - main.774
+  - main.793
+  - main.810
+  - main.884
+  - main.910
+  - main.929
+  - main.934
+  - main.1020
+  - main.1177
+  - main.1254
+  - main.1336
+  - main.1394
+  - main.1400
+g10B:
+  start_time: 2021-04-22 15:00:00+02:00
+  end_time: 2021-04-22 17:00:00+02:00
+  name: CSS+SENTIMENT 2
+  long_name: CSS+SENTIMENT 2
+  papers:
+  - main.36
+  - main.42
+  - main.134
+  - main.228
+  - main.331
+  - main.434
+  - main.447
+  - main.500
+  - main.615
+  - main.719
+  - main.789
+  - main.901
+  - main.971
+  - main.1012
+  - main.1032
+  - main.1116
+  - main.1334
+g9C:
+  start_time: 2021-04-21 15:00:00+02:00
+  end_time: 2021-04-21 17:00:00+02:00
+  name: DIA+GEN 1
+  long_name: DIA+GEN 1
+  papers:
+  - main.13
+  - main.142
+  - main.185
+  - main.215
+  - main.316
+  - main.322
+  - main.325
+  - main.388
+  - main.428
+  - main.567
+  - main.578
+  - main.667
+  - main.828
+  - main.842
+  - main.1266
+  - main.1322
+g11B:
+  start_time: 2021-04-23 15:00:00+02:00
+  end_time: 2021-04-23 17:00:00+02:00
+  name: DIA+GEN 3
+  long_name: DIA+GEN 3
+  papers:
+  - main.79
+  - main.148
+  - main.188
+  - main.194
+  - main.551
+  - main.674
+  - main.698
+  - main.748
+  - main.958
+  - main.982
+  - main.1003
+  - main.1024
+  - main.1043
+  - main.1112
+  - main.1159
+  - main.1203
+g10C:
+  start_time: 2021-04-22 15:00:00+02:00
+  end_time: 2021-04-22 17:00:00+02:00
+  name: LING 2
+  long_name: Morphology and Syntax, Linguistic and Cognitive Modeling, Interpretability
+    and Analysis
+  papers:
+  - main.141
+  - main.304
+  - main.326
+  - main.330
+  - main.433
+  - main.761
+  - main.886
+  - main.898
+  - main.900
+  - main.907
+  - main.1017
+  - main.1045
+  - main.1066
+  - main.1092
+  - main.1109
+  - main.1153
+  - main.1180
+  - main.1316
+  - main.1378
+g11C:
+  start_time: 2021-04-23 15:00:00+02:00
+  end_time: 2021-04-23 17:00:00+02:00
+  name: LING 3
+  long_name: LING 3
+  papers:
+  - main.49
+  - main.102
+  - main.529
+  - main.539
+  - main.785
+  - main.855
+  - main.882
+  - main.1150
+  - main.1259
+  - main.1283
+  - main.1352
+g10D:
+  start_time: 2021-04-22 15:00:00+02:00
+  end_time: 2021-04-22 17:00:00+02:00
+  name: ML-GREEN-LRE 2
+  long_name: ML-GREEN-LRE 2
+  papers:
+  - main.8
+  - main.241
+  - main.267
+  - main.498
+  - main.563
+  - main.643
+  - main.690
+  - main.711
+  - main.753
+  - main.817
+  - main.946
+  - main.947
+  - main.957
+  - main.1027
+  - main.1059
+  - main.1060
+  - main.1091
+  - main.1099
+  - main.1282
+g11D:
+  start_time: 2021-04-23 15:00:00+02:00
+  end_time: 2021-04-23 17:00:00+02:00
+  name: ML-LRE-MISC 3
+  long_name: Machine Learning, Language Resources and Evaluation, Miscellenous NLP
+  papers:
+  - main.169
+  - main.450
+  - main.875
+  - main.927
+  - main.1218
+  - main.1308
+  - main.1393
+g9D:
+  start_time: 2021-04-21 15:00:00+02:00
+  end_time: 2021-04-21 17:00:00+02:00
+  name: MT-LRE 1
+  long_name: MT-LRE 1
+  papers:
+  - main.222
+  - main.309
+  - main.336
+  - main.361
+  - main.362
+  - main.395
+  - main.592
+  - main.636
+  - main.670
+  - main.759
+  - main.786
+  - main.848
+  - main.881
+  - main.962
+  - main.965
+  - main.1061
+  - main.1064
+  - main.1117
+  - main.1314
+  - main.1317
+  - main.1318
+  - main.1388
+g8E:
+  start_time: 2021-04-23 09:00:00+02:00
+  end_time: 2021-04-23 10:00:00+02:00
+  name: MT-MULTI 3
+  long_name: Machine Translation and Multilnguality
+  papers:
+  - main.198
+  - main.266
+  - main.297
+  - main.387
+  - main.511
+  - main.803
+  - main.912
+  - main.1162
+  - main.1247
+g9E:
+  start_time: 2021-04-21 15:00:00+02:00
+  end_time: 2021-04-21 17:00:00+02:00
+  name: SEM 1
+  long_name: Lexical Semantics, Sentence-Level Semantics, and Natural Language Grrounding
+  papers:
+  - main.18
+  - main.116
+  - main.192
+  - main.370
+  - main.451
+  - main.473
+  - main.478
+  - main.495
+  - main.497
+  - main.642
+  - main.835
+  - main.864
+  - main.903
+  - main.921
+  - main.940
+  - main.1234
+  - main.1236
+  - main.1238
+  - main.1255
+  - main.1273
+  - main.1279
+  - main.1321
+  - main.1353
+g11E:
+  start_time: 2021-04-23 15:00:00+02:00
+  end_time: 2021-04-23 17:00:00+02:00
+  name: SEM 3
+  long_name: SEM 3
+  papers:
+  - main.65
+  - main.131
+  - main.255
+  - main.270
+  - main.327
+  - main.356
+  - main.382
+  - main.392
+  - main.708
+  - main.1141
+  - main.1182
+  - main.1392
